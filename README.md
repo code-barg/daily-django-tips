@@ -14,8 +14,8 @@
 
 ---
 
-🔥🌟 Join our Django community today and embark on an exciting journey of daily Django tips. Whether you're building your first Django project or looking to enhance your existing skills, this repository will be your go-to resource. Let's make Django development an enjoyable and rewarding experience! 🚀🔥
+🌟 Join our Django community today and embark on an exciting journey of daily Django tips. Whether you're building your first Django project or looking to enhance your existing skills, this repository will be your go-to resource. Let's make Django development an enjoyable and rewarding experience! 🔥
 
 ---
 
-🔗👉 Don't forget to star this repository and share it with your fellow Django enthusiasts. Let's spread the joy of Django together! 🌟🐍
+🔗👉 Don't forget to star this repository and share it with your fellow Django enthusiasts. Let's spread the joy of Django together! 🌟
