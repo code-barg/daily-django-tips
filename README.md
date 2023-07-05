@@ -1,2 +1,6 @@
-# Daily Django Tips
-🔥 A repository full of daily tips for Django! 💡 Each day, discover a new tip or trick for this popular framework. Get ready to level up your Django skills! 🚀
+# 🔥 Daily Django Tips
+✋ Welcome, where web development with Django becomes a 💡 daily dose of magic! 🪄 We share useful tips and tricks for web development with Django every day. 
+
+👷 Maximize your Django skills while enjoying 🤓 **funny** and 🦾 **humorous** content at the same time. 🚀
+
+
